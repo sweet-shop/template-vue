@@ -1,0 +1,12 @@
+{
+  "generator-mint": {
+    "promptValues": {
+      "projectName": "vue",
+      "version": "1.0.0",
+      "author": "花夏",
+      "email": "liubiao0810@live.cn",
+      "License": "MIT",
+      "isSupportGit": "Y/n"
+    }
+  }
+}
